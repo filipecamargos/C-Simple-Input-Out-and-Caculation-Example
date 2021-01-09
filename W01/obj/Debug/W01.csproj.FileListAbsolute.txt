@@ -1,0 +1,7 @@
+C:\Users\filip\OneDrive\Desktop\BYUI Semester\BYUI 8th Semester\CIT 365\Week 01\W01\W01\W01\bin\Debug\W01.exe.config
+C:\Users\filip\OneDrive\Desktop\BYUI Semester\BYUI 8th Semester\CIT 365\Week 01\W01\W01\W01\bin\Debug\W01.exe
+C:\Users\filip\OneDrive\Desktop\BYUI Semester\BYUI 8th Semester\CIT 365\Week 01\W01\W01\W01\bin\Debug\W01.pdb
+C:\Users\filip\OneDrive\Desktop\BYUI Semester\BYUI 8th Semester\CIT 365\Week 01\W01\W01\W01\obj\Debug\W01.csprojAssemblyReference.cache
+C:\Users\filip\OneDrive\Desktop\BYUI Semester\BYUI 8th Semester\CIT 365\Week 01\W01\W01\W01\obj\Debug\W01.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Desktop\BYUI Semester\BYUI 8th Semester\CIT 365\Week 01\W01\W01\W01\obj\Debug\W01.exe
+C:\Users\filip\OneDrive\Desktop\BYUI Semester\BYUI 8th Semester\CIT 365\Week 01\W01\W01\W01\obj\Debug\W01.pdb
